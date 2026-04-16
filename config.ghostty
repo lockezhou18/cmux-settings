@@ -1,0 +1,5 @@
+# cmux themes start
+theme = light:Flexoki Light,dark:Catppuccin Latte
+# cmux themes end
+
+desktop-notifications = true
